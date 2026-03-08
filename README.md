@@ -2,7 +2,8 @@
 
 # 🎓 Estudante de Análise e Desenvolvimento de Sistemas 
 
-# Sobre mim Sou estudante focado em desenvolvimento de software e análise de dados. Tenho interesse em aprender tecnologias que ajudem a resolver problemas reais utilizando programação e análise de informações. 
+# Sobre mim:
+# Sou estudante focado em desenvolvimento de software e análise de dados. Tenho interesse em aprender tecnologias que ajudem a resolver problemas reais utilizando programação e análise de informações. 
 
 # Tecnologias que estou aprendendo - Python - SQL - Excel - Git e GitHub  
 
